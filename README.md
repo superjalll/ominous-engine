@@ -1,4 +1,4 @@
-# ominous-engine
+
 #!/bin/bash
 
 echo -e "\033[0;35m"
